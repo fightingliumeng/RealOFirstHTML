@@ -116,7 +116,7 @@ RealFirstHTML
            <label>女</label>
            <input type="radio" value="2"  name="gender" />
         </form>
-        <select multiple="mutiple">
+        <select>
           <option value="北京">北京</option>
           <option value="上海">上海</option>
           <option value="邯郸">邯郸</option>
