@@ -42,7 +42,7 @@ RealFirstHTML
     <h3>图片</h3>
     <blockquote>
       <p>好看的图片</p>
-      <img src="http://cms-bucket.nosdn.127.net/284eaeed0fed4330816518224168d69620170313081651.png?imageView&thumbnail=550x0"alt="好看的图片" title="这是一个植树的节日">
+      <img src="http://cms-bucket.nosdn.127.net/284eaeed0fed4330816518224168d69620170313081651.png？imageView&thumbnail=550x0"alt="好看的图片" title="这是一个植树的节日">
       <p>好看的图片</p>
       <img src="http://cms-bucket.nosdn.127.net/284eaeed0fed4330816518224168d69620170313081651.png?imageView&thumbnail=550x0"alt="好看的图片" title="这是一个植树的节日">
       <p>好看的图片</p>
@@ -65,7 +65,6 @@ RealFirstHTML
     </ol>
     <p>下面是一个表格</p>
     <table  summary="这只是一个表格的展示" border="1">
-      <caption>来一个表头</caption>
         <tbody>
           <tr>
             <th>表头1</th>
@@ -132,7 +131,7 @@ RealFirstHTML
             <input type="checkbox" name="爱好" id="科学" />
         </form>
         <form action="save.php" method="post">
-            <textarea cols="50" rows="10">这是一个多行输入框，输入你的个人描述</textarea>
+            <textarea cols="10" rows="50">这是一个多行输入框，输入你的个人描述</textarea>
             <input type="submit" value="确认提交">
         </form>
       </div>
