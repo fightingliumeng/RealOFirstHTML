@@ -131,7 +131,7 @@ RealFirstHTML
             <input type="checkbox" name="爱好" id="科学" />
         </form>
         <form action="save.php" method="post">
-            <textarea cols="10" rows="50">这是一个多行输入框，输入你的个人描述</textarea>
+            <textarea cols="10" rows="10">这是一个多行输入框，输入你的个人描述</textarea>
             <input type="submit" value="确认提交">
         </form>
       </div>
