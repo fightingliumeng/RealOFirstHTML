@@ -5,6 +5,12 @@ RealFirstHTML
   <title>第一个网页</title>
   <meta>
   <link>
+  <ul>
+    	<li><a href="#">导航一</a></li>
+       <li><a href="#">导航二</a></li>
+       <li><a href="#">导航三</a></li>
+       <li><a href="#">导航四</a></li>
+   </ul>
   <style>
   </style>
 </head>
