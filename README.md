@@ -15,7 +15,7 @@
     }
     .first{
       height:1000px;
-      border:10px  solid  black;
+      border:10px solid #000;
       padding:20px;
       margin:20px;
     }
