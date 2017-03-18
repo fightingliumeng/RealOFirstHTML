@@ -28,6 +28,7 @@
       border:1px solid red;
       margin:20px;
     }
+    body{font-family:"宋体";}
     #retarct1{text-indent:2em;}
     #retarct2{text-indent:2em;}
     #retarct3{text-indent:2em;}
