@@ -15,15 +15,15 @@
     }
     .second,.first{
       height:1000px;
-      border:10px solid red;
+      border:2px solid #ccc;
       padding:20px green;
-      margin:10px  block;
+      margin:10px gray;
     }
     .third{
       height:500px;
-      border:10px solid red;
-      padding:20px blue;
-      margin:10px block;
+      padding:20px blue;
+      border:1px solid red;
+      margin:10px gray;
     }
   </style>
 </head>
