@@ -1,16 +1,23 @@
 # RealOFirstHTML
-RealFirstHTML
 <html>
 <head>
   <title>第一个网页</title>
   <meta>
   <link>
-  <a href="#">导航一</a>
-  <a href="#">导航二</a>
-  <a href="#">导航三</a>
-  <a href="#">导航四</a> 
+  <div id="navigation">
+    <a href="#">导航链接一</a>
+    <a href="#">导航链接二</a>
+    <a href="#">导航链接三</a>
+    <a href="#">导航链接四</a> 
+   </div>
   <style>
-  </style>
+    head{
+      background:black
+    }
+  #navigation{
+    float:right;
+  }
+  </style>
 </head>
 <body>
   <h1>邯郸大小事</h1>
