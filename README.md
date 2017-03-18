@@ -13,17 +13,20 @@
     #navigation{
      float:right;
     }
-    .second,.first{
-      height:1000px;
-      padding:0;
+    .second{
+      padding:0;
       border:2px solid block;
-      margin:30px;
+      margin:20px;
+    }
+    .first{
+      padding:0;
+      border:2px solid block;
+      margin:20px;
     }
     .third{
-      height:500px;
-      padding:0;
+      padding:0;
       border:1px solid red;
-      margin:30px;
+      margin:20px;
     }
   </style>
 </head>
