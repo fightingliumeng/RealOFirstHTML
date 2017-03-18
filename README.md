@@ -10,16 +10,20 @@
     <a style="color:#ccd" href="#">导航链接四</a> 
    </div>
   <style type="text/css">
-      #navigation{
-      float:right;
+    #navigation{
+     float:right;
     }
+    .first{
+      border:2px  solid  black;
+      padding:0px;
+      margin:10px;
+    }
    
   </style>
 </head>
 <body>
-  <h1>邯郸大小事</h1>
-  <div>
-   <h2>峰峰才女获全国作文大赛一等奖</h2>
+  <div class="first">
+    <h2>峰峰才女获全国作文大赛一等奖</h2>
     <h3>第一遍文章的二级标题</h3>
     <p>文章作者 文章发表时间</p>
     <p> 近日，从第十五届“叶圣陶杯”全国中学生新作文大赛传来喜讯，峰峰第一中学高三14班曹芷涵同学在中国传媒大学举行的现场作文决赛中，<br>
