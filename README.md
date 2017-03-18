@@ -1,8 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head style="width:500px;height:300px;border:2px solid black;padding:0;color:black;">
   <title>第一个网页</title>
-  <meta charset="utf-8">>
-  <link>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="index.css">
   <div id="navigation">
     <a href="#">导航链接一</a>
     <a href="#">导航链接二</a>
@@ -10,24 +11,24 @@
     <a style="color:#ccd" href="#">导航链接四</a> 
    </div>
   <style type="text/css">
-   #navigation{
-     float:right;
+    #navigation{
+      float:right;
     }
-   .first{
+    .first{
       padding:0;
       border:2px solid block;
       margin:20px;
-   }
-   .second{
+    }
+    .second{
       padding:0;
       border:2px solid block;
       margin:20px;
-   }
-   .third{
+    }
+    .third{
       padding:0;
       border:1px solid red;
       margin:20px;
-   }
+    }
    body{font-family:"宋体";font-size:12px;}
    p{line-height:1.5em;}
    .retarct{text-indent:2em;}   
