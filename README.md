@@ -12,7 +12,8 @@
    </div>
   <style>
     head{
-      background:black
+      border:2px solid black;
+      color:black;
     }
   #navigation{
     float:right;
