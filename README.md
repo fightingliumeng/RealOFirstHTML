@@ -14,6 +14,8 @@
      float:right;
     }
     .first{
+      width:200px;
+      height:30px;
       border:2px  solid  black;
       padding:0px;
       margin:10px;
