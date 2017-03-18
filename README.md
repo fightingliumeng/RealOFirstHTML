@@ -11,27 +11,17 @@
       <a style="color:#ccd" href="#">导航链接四</a> 
      </div>
     <style type="text/css">
-      #navigation{
-        float:right;
-      }
-      .first{
-        padding:0;
-        border:2px solid block;
-        margin:20px;
-      }
-      .second{
-        padding:0;
-        border:2px solid block;
-        margin:20px;
-      }
-      .third{
-        padding:0;
-        border:1px solid red;
-        margin:20px;
-      }
-     body{font-family:"宋体";font-size:12px;}
-     p{line-height:1.5em;}
-     .retarct{text-indent:2em;}   
+        body{font-family:"宋体";font-size:12px;}
+        p{line-height:1.5em;}
+        #navigation{
+            float:right;
+        }
+        .first .second .third {
+            padding:0;
+            border:2px solid block;
+            margin:20px;
+        }
+        .retarct{text-indent:2em;}   
     </style>
 </head>
 <body>
