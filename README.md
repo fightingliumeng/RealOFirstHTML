@@ -1,6 +1,6 @@
 # RealOFirstHTML
 <html>
-<head class="top">
+<head style="width:500px;height:300px;border:2px solid black;padding:0;color:black;">
   <title>第一个网页</title>
   <meta charset="utf-8">>
   <link>
@@ -11,14 +11,7 @@
     <a href="#">导航链接四</a> 
    </div>
   <style type="text/css">
-    .top{
-      width:200px;
-      height:30px;
-      padding:0;
-      border:2px solid black;
-      color:black;
-    }
-    #navigation{
+      #navigation{
       float:right;
     }
     body{background:#ccc;}
