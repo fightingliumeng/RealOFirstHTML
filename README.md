@@ -12,6 +12,9 @@
    </div>
   <style>
     head{
+      width:200px;
+      height:30px;
+      padding:0;
       border:2px solid black;
       color:black;
     }
