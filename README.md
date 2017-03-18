@@ -15,9 +15,9 @@
     }
     .first{
       height:1000px;
-      border:2px  solid  black;
-      padding:0px;
-      margin:10px;
+      border:10px  solid  black;
+      padding:20px;
+      margin:20px;
     }
    
   </style>
