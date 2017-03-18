@@ -13,7 +13,7 @@
     #navigation{
      float:right;
     }
-    .second,.first{
+     .third,.second,.first{
       height:1000px;
       border:10px solid red;
       padding:20px;
@@ -52,6 +52,8 @@
       <li>邯山区</li>
       <li>肥乡区</li>
     </ul>
+   </div>
+   <div class="third">
     <h3>图片</h3>
     <blockquote>
       <p>好看的图片</p>
