@@ -13,9 +13,9 @@
     #navigation{
      float:right;
     }
-    .first{
+    .second,.first{
       height:1000px;
-      border:10px solid #000;
+      border:10px solid red;
       padding:20px;
       margin:20px;
     }
@@ -38,7 +38,7 @@
     学界、出版界瞩目。本届比赛吸引了全国200多所学校的千余名学生参加，而决赛选手是从参加初赛的选手当中按1％比例选拔产生的，竞争十分激烈。<br>
     </p>
   </div>
-  <div>
+  <div class="second">
     <h2>这是另一个文章的一级标题</h2>
     <h3>这是这个文章的二级标题了</h3>
     <p>“从未想过自己有一天，可以离这些当代名家如此之近。<a href="http://ife.baidu.com" title="百度前端技术学院">这里是一个广告</a>”听
