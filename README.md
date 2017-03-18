@@ -7,7 +7,7 @@
     <a href="#">导航链接一</a>
     <a href="#">导航链接二</a>
     <a href="#">导航链接三</a>
-    <a href="#"；color:#ccc>导航链接四</a> 
+    <a href="#";color:#ccc>导航链接四</a> 
    </div>
   <style type="text/css">
       #navigation{
