@@ -13,7 +13,7 @@
       #navigation{
       float:right;
     }
-    body{background:#ccc;}
+   
   </style>
 </head>
 <body>
