@@ -10,30 +10,27 @@
     <a style="color:#ccd" href="#">导航链接四</a> 
    </div>
   <style type="text/css">
-    #navigation{
+   #navigation{
      float:right;
     }
-    .second{
+   .first{
       padding:0;
       border:2px solid block;
       margin:20px;
-    }
-    .first{
+   }
+   .second{
       padding:0;
       border:2px solid block;
       margin:20px;
-    }
-    .third{
+   }
+   .third{
       padding:0;
       border:1px solid red;
       margin:20px;
-    }
-    body{font-family:"宋体";font-size:12px;}
-    p{line-height:1.5em;}
-    #retarct1{text-indent:2em;}
-    #retarct2{text-indent:2em;}
-    #retarct3{text-indent:2em;}
-   
+   }
+   body{font-family:"宋体";font-size:12px;}
+   p{line-height:1.5em;}
+   .retarct{text-indent:2em;}   
   </style>
 </head>
 <body>
@@ -41,13 +38,11 @@
     <h2>峰峰才女获全国作文大赛一等奖</h2>
     <h3>第一遍文章的二级标题</h3>
     <p>文章作者 文章发表时间</p>
-    <p id="retract1"> 近日，从第十五届“叶圣陶杯”全国中学生新作文大赛传来喜讯，峰峰第一中学高三14班曹芷涵同学在中国传媒大学举行的现场作文决赛中，<br>
-    从来自<a href="http://ife.baidu.com" title="百度前端技术学院">这里是一个广告</a>全国200所学校的上千名选手中脱颖而出，
-    以《我的阅读故事》勇夺决赛一等奖。她缘何摘得殊荣，获奖背后又有哪些故事？3月10日，  <br>
-    记者辗转联系到曹芷涵，去倾听她“写作”中的故事<br>
+    <p class="retract"> 近日，从第十五届“叶圣陶杯”全国中学生新作文大赛传来喜讯，峰峰第一中学高三14班曹芷涵同学在中国传媒大学举行的现场作文决赛中，<br>从来自<a href="http://ife.baidu.com" title="百度前端技术学院">这里是一个广告</a>全国200所学校的上千名选手中脱颖而出，以《我的阅读故事》勇夺决赛一等奖。她缘何摘得殊荣，获奖背后又有哪些故事？<br>
+    3月10日，记者辗转联系到曹芷涵，去倾听她“写作”中的故事<br>
     </p>
     <img src="http://cms-bucket.nosdn.127.net/catchpic/c/cc/cccfa72ebe4dbfa274f3f0daf7d51af4.jpg?imageView&thumbnail=550x0" title="a一下"><br>
-    <p id="retract2">由中国少年儿童新闻出版总社和中国当代文学研究会主办、《中学生》杂志社和中国当代文学研究会校园文学委员会承办、中国传媒大学文法学部协办
+    <p class="retract">由中国少年儿童新闻出版总社和中国当代文学研究会主办、《中学生》杂志社和中国当代文学研究会校园文学委员会承办、中国传媒大学文法学部协办
     的第15届“叶圣陶杯”全国中学生作文大赛决赛，<a href="http://ife.baidu.com" target="_blank" title="百度前端技术学院">这里是一个广告</a>1月23日
     -24日在北京举行。“叶圣陶杯”作文大赛是迄今为止全国级别最高、最有权威性、最具影响力的中学生作文赛事之一，备受全国中学师生及教育界、文
     学界、出版界瞩目。本届比赛吸引了全国200多所学校的千余名学生参加，而决赛选手是从参加初赛的选手当中按1％比例选拔产生的，竞争十分激烈。<br>
@@ -56,7 +51,7 @@
   <div class="second">
     <h2>这是另一个文章的一级标题</h2>
     <h3>这是这个文章的二级标题了</h3>
-    <p id="retarct3">“从未想过自己有一天，可以离这些当代名家如此之近。<a href="http://ife.baidu.com" title="百度前端技术学院">这里是一个广告</a>听说自己进了决赛，曹芷涵起初只是感到意外。但她的指导老师石利斌却觉得实至名归，“曹芷涵在初赛文章《妈妈是我灵魂的安顿》中，以饱含温暖的感情串
+    <p class="retarct">“从未想过自己有一天，可以离这些当代名家如此之近。<a href="http://ife.baidu.com" title="百度前端技术学院">这里是一个广告</a>听说自己进了决赛，曹芷涵起初只是感到意外。但她的指导老师石利斌却觉得实至名归，“曹芷涵在初赛文章《妈妈是我灵魂的安顿》中，以饱含温暖的感情串
     起全文，不露痕迹地把自己对母亲的爱杂糅其间，让母爱在纸张中流淌，布局巧妙、结构完整。这样的写作功力理所当然会受到评委的青睐。”石利斌骄傲地
     说。</p>
     <img src="http://cms-bucket.nosdn.127.net/catchpic/e/ec/ec5723dbde39edcb9c5efb698da4c5f1.jpg?imageView&thumbnail=550x0" title="a一下"><br>
