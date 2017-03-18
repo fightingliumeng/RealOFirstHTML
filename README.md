@@ -13,14 +13,19 @@
     #navigation{
      float:right;
     }
-     .third,.second,.first{
+    .second,.first{
       height:1000px;
       border:10px solid red;
-      padding:20px;
-      margin:20px;
+      padding:20px green;
+      margin:10px  block;
     }
-   
-  </style>
+    .third{
+      height:500px;
+      border:10px solid red;
+      padding:20px blue;
+      margin:10px block;
+    }
+  </style>
 </head>
 <body>
   <div class="first">
