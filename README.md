@@ -1,6 +1,6 @@
 # RealOFirstHTML
 <html>
-<head>
+<head class="top">
   <title>第一个网页</title>
   <meta>
   <link>
@@ -11,7 +11,7 @@
     <a href="#">导航链接四</a> 
    </div>
   <style>
-    head{
+    .top{
       width:200px;
       height:30px;
       padding:0;
