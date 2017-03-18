@@ -29,7 +29,7 @@
       margin:20px;
     }
     p{}
-    #retarct1,#retarct2,retarct3{text-indent:2em;}
+    #retarct1,#retarct2,#retarct3{text-indent:2em;}
   </style>
 </head>
 <body>
