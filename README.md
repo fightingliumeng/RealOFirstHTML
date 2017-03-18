@@ -10,7 +10,7 @@
     <a href="#">导航链接三</a>
     <a href="#">导航链接四</a> 
    </div>
-  <style>
+  <style type="text/css">
     .top{
       width:200px;
       height:30px;
