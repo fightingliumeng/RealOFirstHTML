@@ -2,7 +2,7 @@
 <html>
 <head class="top">
   <title>第一个网页</title>
-  <meta>
+  <meta charset="utf-8">>
   <link>
   <div id="navigation">
     <a href="#">导航链接一</a>
@@ -18,9 +18,9 @@
       border:2px solid black;
       color:black;
     }
-  #navigation{
-    float:right;
-  }
+    #navigation{
+      float:right;
+    }
     body{background:#ccc;}
   </style>
 </head>
